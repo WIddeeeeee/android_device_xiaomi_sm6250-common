@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="2.0" ?>
 <permissions>
     <privapp-permissions package="com.android.hotwordenrollment.okgoogle">
         <permission name="android.permission.INTERACT_ACROSS_USERS"/>
